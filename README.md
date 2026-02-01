@@ -61,6 +61,13 @@ Instead of jumping directly to optimized solutions, I focus on **progressive imp
 - Python
 
 ---
+## 📌 Problem Source
+The problems practiced in this repository are **inspired by PrepInsta’s 100 Coding Questions** list.
+
+All solutions are written independently with my own logic,
+including **brute force and optimized approaches** for better understanding.
+
+---
 
 ## Practice Commitment
 - Problems are added **daily**
