@@ -14,7 +14,7 @@ for _ in range(num):
     fibo_list.append(fibo1)
     fibo1, fibo2 = fibo2, fibo1 + fibo2
 
-print(fibo_list)
+print(fibo_list[num-1])
 
 
 # -----------------------------
@@ -34,3 +34,4 @@ else:
     for _ in range(3, num + 1):
         fibo1, fibo2 = fibo2, fibo1 + fibo2
     print(fibo2)
+
