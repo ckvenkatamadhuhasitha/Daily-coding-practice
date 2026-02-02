@@ -28,7 +28,8 @@ for i in range(1, (int(num2**0.5)) + 1):
         if num2 // i != i and num2 // i != num2:
             sum2 = sum2 + (num2 // i)
 
-if sum1 * num2 == sum2 * num1:
+if sum1 * num2 == sum2 * num1: # used this instead of (sum1/num1 == sum2/num2) to avoid floating point conflicts
     print('Friendly Pairs')
 else:
     print('Not Friendly Pairs')
+
