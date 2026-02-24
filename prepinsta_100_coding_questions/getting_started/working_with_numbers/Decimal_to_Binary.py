@@ -28,3 +28,4 @@ print(binary_num)
 decimal_num = int(input('Enter a number: '))
 binary_num = bin(decimal_num)[2:]   # To remove prefix '0b'
 print(binary_num)
+
