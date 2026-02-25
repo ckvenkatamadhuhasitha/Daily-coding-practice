@@ -29,3 +29,4 @@ print(decimal_num)
 binary_num = input('Enter a binary number: ')
 decimal_num = int(binary_num, 2)
 print(decimal_num)
+
